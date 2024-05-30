@@ -1,0 +1,57 @@
+body {background-color:rgb(255, 238, 0);} 
+  
+   img {
+    height: 750px;
+    width: 750px;
+}
+div{
+font-size:25px;
+
+}    
+
+a{
+    background-color: rgb(205, 213, 255) ;
+}
+   
+a:hover{
+    background-color: rgb(4, 92, 255);
+}
+@media (min-width:501px) and (max-width:1000px) {
+    body{
+        background-color: green;
+        font-size:50px ;
+        font-family:75px ;
+    }
+}
+
+@media (max-width:500px) {
+    body{
+        background-color: rgb(45, 59, 192);
+        font-size:75px ;
+        font-family:50px ;
+    }
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
